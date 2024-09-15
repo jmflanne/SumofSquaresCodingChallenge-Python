@@ -1,5 +1,5 @@
 # SumofSquaresCodingChallenge-Python
-calculates sum of squares of given integers
+calculates sum of squares of given integers <br />
 Example Input: <br />
 2 <br />
 3 <br />
