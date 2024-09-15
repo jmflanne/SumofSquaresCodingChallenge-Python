@@ -13,4 +13,4 @@ Example output: <br />
 Rules: no for or while loops, no list/set/dictionary comprehension, no global variables, use only standard packages, do not include negative numbers in calculation
 
 Description is below:
-
+![projectDescription](https://github.com/jmflanne/SumofSquaresCodingChallenge-Python/blob/main/CodingChallengeDesc.jpg) 
